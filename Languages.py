@@ -13,7 +13,7 @@ def lcs(s1, s2):
     return dp[m][n]
 
 # Example usage
-kamba = "miti mikulu musamvu ino"
+kamba = "miti ino minene muunza"
 kikuyu = "miti mikuru igĩtũgũ ino"
 
 result = lcs(kamba, kikuyu)
