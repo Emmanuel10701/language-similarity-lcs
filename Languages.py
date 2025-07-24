@@ -11,7 +11,6 @@ def lcs(X, Y):
 
     return dp[m][n]
 
-# Example usage
 kamba = "miti ino muonza nene"
 kikuyu = "ino miti mugwanja minene"
 
